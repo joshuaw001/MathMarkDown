@@ -1,0 +1,4 @@
+<!ELEMENT math (fraction,exponent,base,)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
